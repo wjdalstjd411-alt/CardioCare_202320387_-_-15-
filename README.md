@@ -52,8 +52,14 @@
 저장소를 복제합니다.
 
 ```bash
-git clone <repository_url>
-cd CardioCare
+# 저장소 복제
+
+git clone https://github.com/wjdalstjd411-alt/CardioCare_202320387_-_-15-.git
+
+# 프로젝트 폴더 이동
+
+cd CardioCare_202320387_-_-15-
+
 ```
 
 필요 패키지를 설치합니다.

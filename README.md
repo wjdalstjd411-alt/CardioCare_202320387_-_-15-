@@ -2,7 +2,7 @@
 
 이번 프로젝트는 심장병 발병 가능성을 예측하는 머신러닝 프로젝트입니다.
 
-그리고 UCI Heart Disease Dataset을 활용하여 심장병 위험 여부를 예측하며, MLOps 요소(MLflow, Unit Test, Docker, CI/CD, Monitoring, Drift Detection)를 포함합니다.
+그리고 UCI Heart Disease Dataset(저는 통합 데이터셋을 사용하였습니다.)을 활용하여 심장병 위험 여부를 예측하며, MLOps 요소(MLflow, Unit Test, Docker, CI/CD, Monitoring, Drift Detection)를 포함합니다.
 
 ---
 

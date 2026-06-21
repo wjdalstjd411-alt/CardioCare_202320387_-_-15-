@@ -11,7 +11,7 @@ files = [
 columns = [
     "age", "sex", "cp", "trestbps", "chol",
     "fbs", "restecg", "thalach", "exang", "oldpeak",
-    "slope", "ca", "thal", "num"   # num이 타깃!
+    "slope", "ca", "thal", "num"   # num이 타깃
 ]
 
 df = pd.concat(

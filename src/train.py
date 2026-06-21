@@ -385,6 +385,8 @@ artifact = {
     "model": final_model_clf,
     "feature_columns": list(X_train.columns),
     "random_state": RANDOM_STATE,
+    "X_test": X_test,
+    "y_test": y_test,
 }
 
 with open(MODEL_SAVE_PATH, "wb") as f:
